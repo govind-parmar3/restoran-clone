@@ -25,7 +25,8 @@ A visually appealing and responsive restaurant website clone built using HTML5, 
 
 🧑‍💻 GitHub : https://github.com/govind-parmar3
 
-💬 contact : https://t.ly/Zfyei
+💬 contact : https://t.ly/Zfyei  
+<br>
 ![Screenshot (26)](https://github.com/user-attachments/assets/fcae6fed-b8ab-45db-921a-edffc2f35b2f)
 ![Screenshot (27)](https://github.com/user-attachments/assets/6564a7bd-0c06-4ba5-bcd6-c862e178e78b)
 ![Screenshot (28)](https://github.com/user-attachments/assets/af6577a2-c336-4c71-a780-878e3cd87030)
